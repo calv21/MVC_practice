@@ -11,7 +11,10 @@
 
                             <a class="nav-link" href="/UN_tech/lms_test/admin/subject.php">Subjects</a>
                             <a class="nav-link" href="/UN_tech/lms_test/admin/class.php">Classes</a>
-                             
+                            <a class="nav-link" href="/UN_tech/lms_test/admin/student.php">Students</a>
+                            <a class="nav-link" href="/UN_tech/lms_test/admin/department.php">Departments</a>
+                            <a class="nav-link" href="/UN_tech/lms_test/admin/teacher.php">Teachers</a>
+                            <a class="nav-link" href="/UN_tech/lms_test/admin/assign.php">Assign</a>
                         </div>
                     </div>
                     <div class="sb-sidenav-footer">
